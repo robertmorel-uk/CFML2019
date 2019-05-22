@@ -13,7 +13,7 @@
 			<div class="row">
 				
 			<section>
-				<script src=""></script>
+				<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB5m71hu3m8PTNrMqp2hcTR6Ae0LZeCXvM&callback=myMap"></script>
 				<div id="container" style="min-width:1200px;">	
 				  <div id="map" style="width: 100%; height: 400px; margin-bottom: 30px;"></div>
 				</div>
